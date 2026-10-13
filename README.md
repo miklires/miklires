@@ -1,16 +1,19 @@
-## Hi there 👋
+# miklires
 
-<!--
-**miklires/miklires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java | Rust Developer · Minecraft Server Infrastructure**
 
-Here are some ideas to get you started:
+I build Minecraft server plugins focused on security, performance, modularity, and player experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Focus On
+
+- Modular plugin architecture and public APIs
+- Server performance and asynchronous operations
+- Account security and abuse prevention
+- Configurable systems and backwards-compatible migrations
+- Clear documentation and maintainable code
+
+### Links
+
+- [GitHub](https://github.com/miklires)
+- [Website](https://miklires.su)
+- [Discord Community](https://discord.gg/pes25cnWKy)
