@@ -1,16 +1,21 @@
-## Hi there 👋
+# miklires
 
-<!--
-**miklires/miklires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rust Developer · Systems Programmer**
 
-Here are some ideas to get you started:
+Building low-level software, systems and tools with Rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Focus
+
+- Rust
+- Kernel Development
+- Operating System Architecture
+- Systems Programming
+- Software Engineering
+
+---
+
+- [Website](https://miklires.su)
+- [GitHub](https://github.com/miklires)
+- [Discord Community](https://discord.gg/pes25cnWKy)
